@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My First Web Page</title>
+</head>
+<body>
+
+    <h1>Welcome to My Website</h1>
+    <p>This is a simple paragraph showing how text renders on a browser. You can easily make words <strong>bold</strong> or <em>italicized</em> to emphasize your content.</p>
+
+    <h2>Useful Resources</h2>
+    <!-- A hyperlink that opens in a new tab -->
+    <p>To learn more about web development, check out the <a href="https://www.w3schools.com/html/" target="_blank">W3Schools HTML Tutorial</a>.</p>
+
+</body>
+</html>
